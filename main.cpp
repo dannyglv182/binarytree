@@ -1,3 +1,9 @@
+/***********************************
+ * Daniel Galvez
+ * main.cpp
+ * Binary Tree Project
+ **********************************/
+
 #include "tree.h"
 #include <iostream>
 

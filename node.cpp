@@ -3,6 +3,7 @@
  * node.cpp
  * Binary Tree Project
  **********************************/
+
 #include "node.h"
 #include <iostream>
 using namespace std;

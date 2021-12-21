@@ -3,6 +3,7 @@
  * tree.h
  * Binary Tree Project
  **********************************/
+
 #include "node.h"
 
 class tree
