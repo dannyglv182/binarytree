@@ -2,7 +2,7 @@
 This project performs operations on a binary tree and clears dynamic memory when the program closes.
 
 ## Build and Run
-In order to build an run compile with
+In order to run compile with
 ```g++ -std=c++11 *.cpp```
 
 ## Operations include:
