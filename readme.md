@@ -10,4 +10,4 @@ In order to build an run compile with
 - Finding and returning the height of the tree
 - Removing a single item from the tree
 - Removing all items from the tree.
-- Clearing dynamic memory whe
+- Clearing dynamic memory
